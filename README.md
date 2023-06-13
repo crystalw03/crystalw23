@@ -5,7 +5,7 @@ I am glad you decided to check out my work.
 ## 👩‍💻 My Private Repositories
 👉 [New York City Crime Analysis](https://gitfront.io/r/user-1480225/w4rwmcv5WVF9/New-York-City-Crime-Analysis/) 📈<br />
 👉 [Store Location Analysis](https://gitfront.io/r/user-1480225/A9gWHaq1Z4PY/Store-Location-Analysis/) 📈<br />
-👉 [Pokemon Card Game](https://gitfront.io/r/user-1480225/EcpSt1aaKtos/Pokemon-Card-Game/)
+👉 [Pokemon Game](https://gitfront.io/r/user-1480225/6d5z2Wup2qog/Pokemon-Game/)
 
 ## 👀 Other Projects
 ### 💻 Design Thinking
